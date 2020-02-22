@@ -1,4 +1,4 @@
-# Lesson Instructions: Math in Python
+# Lesson: Math in Python
 
 ### Part 1: Instruction
 Watch the following videos to help you get started on this lesson. Take notes on your copy of the slides so you can refer back to the information later.
