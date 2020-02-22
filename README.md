@@ -1,7 +1,7 @@
 # Lesson Instructions: Math in Python
 
 ### Part 1: Instruction
-Watch the following videos to help you get started on this lesson. Take notes that you can refer back to later.
+Watch the following videos to help you get started on this lesson. Take notes on your copy of the slides so you can refer back to the information later.
 1. [math operators]()
 1. [type conversion]()
 
