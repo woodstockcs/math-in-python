@@ -2,8 +2,8 @@
 
 ### Part 1: Instruction
 Watch the following videos to help you get started on this lesson. Take notes on your copy of the slides so you can refer back to the information later.
-1. [math operators]()
-1. [type conversion]()
+1. [math operators](https://www.youtube.com/watch?v=BiO-U5HYeyI)
+1. [type conversion](https://www.youtube.com/watch?v=WywqsQ8HG0c)
 
 ### Part 2: Exploration
 1. If you're not already in your `unit_5` directory, `cd` into it.
